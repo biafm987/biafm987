@@ -38,6 +38,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/biafm978/biafm987/output/snake.svg" alt="Snake animation" />
-
 ###
