@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Beatriz and I'm a computer science student, from Portugal.</h2>
+<h2 align="left">Hi 👋! My name is Beatriz and I'm a Computer Science student, from Portugal.</h2>
 
 ###
 
@@ -38,6 +38,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/biafm978/biafm987/output/snake.svg" alt="Snake animation" />
 
 ###
